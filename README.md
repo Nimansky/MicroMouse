@@ -1,6 +1,6 @@
 # MicroMouse - Readme
 
-A [MicroMouse](https://en.wikipedia.org/wiki/Micromouse) built for a university school project by Nima Baradaran Hassanzadeh, Xian Chen and Christian Förster. The mouse is based on a Raspberry Pi 3B paired with an extension board hosting a STM32F030CC. As such, this project heavily involves sensor communication via I2C, inter-processor communication via UART, as well as a lot of STM32-internal timer and PWM logic. For exact specifics, please feel free to read the documentation.pdf!
+A [MicroMouse](https://en.wikipedia.org/wiki/Micromouse) built for a university school project by Nima Baradaran Hassanzadeh, Xian Chen and Christian Förster. The mouse is based on a Raspberry Pi 3B paired with an extension board hosting a STM32F030CC. As such, this project heavily involves sensor communication via I2C, inter-processor communication via UART, as well as a lot of STM32-internal timer and PWM logic. For exact specifics, please feel free to read the [documentation](/documentation.pdf)!
 
 
 # Pinouts
